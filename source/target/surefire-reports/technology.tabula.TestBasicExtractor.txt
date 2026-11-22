@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: technology.tabula.TestBasicExtractor
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.079 s -- in technology.tabula.TestBasicExtractor
